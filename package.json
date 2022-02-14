@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/sorayamou.lwc-kzn8sgv9",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve yjne5B5gkJXNPNxK70fT --open"
+  }
+}
